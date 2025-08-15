@@ -13,6 +13,7 @@ Lakad is a navigation app designed to ensure the safety and convenience of commu
 Golden Grain App empowers farmers with essential tools to thrive in today’s agricultural landscape. Gain real-time market prices to ensure transparent negotiations and avoid middlemen exploitation. Stay protected with instant weather alerts that deliver timely climate updates directly to your phone. Simplify access to government support through direct subsidy connections, ensuring benefits reach the farmers they’re meant for. Streamline harvest distribution with partnered logistics, connecting you to trusted local providers for efficient and reliable transportation.
 
 **Prototype Link:** [Golden Grain Figma Prototype](https://www.figma.com/design/BF4M3Txtr3VsEC2dzyynIy/INOV8-MVP?node-id=0-1&t=OOsCmTUbIZRLNCDR-1)
+[🎥 Watch the demo video](https://drive.google.com/file/d/1tlOcH0kI9BQ8y1_ZwxkD0vdZWdShRCB4/view?usp=sharing)
 
 ## Joystick Journey
 

@@ -27,7 +27,3 @@ Joystick Journey invites users to explore the evolution of gaming controllers th
 AnimoEase is a web application designed to assist students in managing their courses on a term-by-term basis by providing information on course workload difficulty and offering professor recommendations. It aims to streamline the academic journey by providing valuable insights into course complexities and guiding students in selecting the right professors.
 
 **Prototype Link:** [AnimoEase Figma Prototype](https://www.figma.com/design/60ANlYwwTFXo1KGUP1LCXg/AnimoEase?node-id=0-1&t=dRr8PuIBMA4P0CVr-1)
-
-## Golden Grain
-
-
